@@ -11,6 +11,7 @@ The aim of this notebook is to sift through and organize research papers, real w
 - Luna (http://www.luna-lang.org/)
 - Blocky (https://developers.google.com/blockly/)
 - Unreal Engine Blueprints
+- Alice
 
 ## Categories of Visual Languages
 
