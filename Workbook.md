@@ -23,9 +23,9 @@ The aim of this notebook is to sift through and organize research papers, real w
 - Languages for education
 
 ## Research Papers
-https://link.springer.com/chapter/10.1007/BFb0026431
-http://www-ist.massey.ac.nz/plyons/776/VPL%20papers.html
-http://web.engr.oregonstate.edu/~burnett/vpl.html
+- https://link.springer.com/chapter/10.1007/BFb0026431
+- http://www-ist.massey.ac.nz/plyons/776/VPL%20papers.html
+- http://web.engr.oregonstate.edu/~burnett/vpl.html
 
 ## Notes
 
@@ -35,4 +35,5 @@ Visual programming languages are based on nodes and interconnecting wires to gra
 - right angle lines (ex. labview) <image>
 - spline curves (ex. blueprints) <image>
 - puzzle (ex. blocky) <image>
-  
+
+I would like to explore which is best, or what applications each has.  What other ways could you graphically represent data flow?
