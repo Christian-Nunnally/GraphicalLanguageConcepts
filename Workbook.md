@@ -8,7 +8,9 @@ The aim of this notebook is to sift through and organize research papers, real w
 - Labview
 - Scratch
 - Unity
-- Luna
+- Luna (http://www.luna-lang.org/)
+- Blocky (https://developers.google.com/blockly/)
+- Unreal Engine Blueprints
 
 ## Categories of Visual Languages
 
@@ -24,3 +26,13 @@ The aim of this notebook is to sift through and organize research papers, real w
 https://link.springer.com/chapter/10.1007/BFb0026431
 http://www-ist.massey.ac.nz/plyons/776/VPL%20papers.html
 http://web.engr.oregonstate.edu/~burnett/vpl.html
+
+## Notes
+
+Visual programming languages are based on nodes and interconnecting wires to graph relations between nodes.  One observation is that while the nodes can be layed out in an order that makes sense, often the interconnected wires make the visual representation look messy.  There are four types of intercepts I've seen so far:
+
+- Stright lines (ex. tracelab) <image>
+- right angle lines (ex. labview) <image>
+- spline curves (ex. blueprints) <image>
+- puzzle (ex. blocky) <image>
+  
