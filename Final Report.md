@@ -51,15 +51,22 @@ For the scope of this prototype, there was a small set of features that I did no
 #### Images
 
 Code execution displays results in a built in console node.
-![alt text](https://github.com/Christian-Nunnally/GraphicalLanguageConcepts/blob/master/Images/Pyagramr.png "Execution of code in inline console")
+
+![alt text](https://github.com/Christian-Nunnally/GraphicalLanguageConcepts/blob/master/Images/Pyagramr.PNG "Execution of code in inline console")
+
 
 Introducing an error in the main class shows how the error is both printed in the console and the problem class is highlighted red.
-![alt text](https://github.com/Christian-Nunnally/GraphicalLanguageConcepts/blob/master/Images/Error.png "Error during execution")
+
+![alt text](https://github.com/Christian-Nunnally/GraphicalLanguageConcepts/blob/master/Images/Error.PNG "Error during execution")
+
 
 Showcasing the three types of arrows, inheritance, dependency, and uses.
-![alt text](https://github.com/Christian-Nunnally/GraphicalLanguageConcepts/blob/master/Images/Arrows.png "Arrow Types")
+
+![alt text](https://github.com/Christian-Nunnally/GraphicalLanguageConcepts/blob/master/Images/Arrows.PNG "Arrow Types")
+
 
 The code generated automatically by Pyagramr for the previous example.
+
 ![alt text](https://github.com/Christian-Nunnally/GraphicalLanguageConcepts/blob/master/Images/Error.PNG "Generated Code")
 
 #### Future of Pyagramr
